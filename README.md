@@ -1,10 +1,14 @@
 # SERANGAN DDOS ATTACK
 $apt update && apt upgrade
+
 $pkg install git && pkg install python
 
-$git clone https://github.com/reyspeed/DDOS2
-$cd DDOS2
-$python hammer.py
+
+$git clone https://github.com/mrpaktoto/DDOS.BARBAR
+
+$ cd DDOS.BARBAR
+
+$ python hammer.py
 
 
 
